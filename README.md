@@ -1,5 +1,6 @@
 # Plotting-Meta-dPrime
-Prerequisites: Labels of True_negative, True_positive, False_positive, False_negative, under the column name, "D" in your dataframe.
+Prerequisites: Labels of True_positive, False_positive, False_negative, True_negative under the column name, "D" in your dataframe.
+Please refer to the paper about meta-dprime (true positive = hit, false positive = false alarm, false negative = miss, true negative = correct rejection):
 
 ![alt text](https://github.com/SoanKim/Plotting-Meta-dPrime/blob/ba0aaa7ddc4f4f2ccab76e010823a5bcfb857ef2/Fleming,%20S.%20M.,%20&%20Lau,%20H.%20C.%20(2014).png)
 
