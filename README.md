@@ -8,3 +8,5 @@ Prerequisites: Labels of True_negative, True_positive, False_positive, False_neg
 ![alt text](https://github.com/SoanKim/Plotting-Meta-dPrime/blob/d0cabcde4df137036c73ca949142a2c1136d4212/ROC_of_Meta_dPrime_3.png)
 
 ![alt text](https://github.com/SoanKim/Plotting-Meta-dPrime/blob/ba0aaa7ddc4f4f2ccab76e010823a5bcfb857ef2/Fleming,%20S.%20M.,%20&%20Lau,%20H.%20C.%20(2014).png)
+
+Fleming, S. M., & Lau, H. C. (2014). How to measure metacognition. Frontiers in human neuroscience, 8, 443. https://doi.org/10.3389/fnhum.2014.00443
