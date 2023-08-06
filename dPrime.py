@@ -30,7 +30,7 @@ def dPrime(data):
 
 fpr, tpr = dPrime(exp_1)
 roc_auc = metrics.auc(fpr, tpr)
-plt.title("[Block 1] ROC of Meta-d'")
+plt.title("[Block 1] ROC of dPrime")
 plt.plot(fpr, tpr, 'c', label = 'AUC = %0.2f' % roc_auc)
 plt.legend(loc = 'lower right')
 plt.plot([0, 1], [0, 1],'r--')
